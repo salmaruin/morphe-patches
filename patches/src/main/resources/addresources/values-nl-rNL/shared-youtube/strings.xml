@@ -344,6 +344,18 @@ Als dit later wordt uitgeschakeld, wordt aanbevolen om de app-gegevens te wissen
   <string name="morphe_custom_font_file_summary">Kies een TTF- of OTF-lettertypebestand</string>
   <string name="morphe_custom_font_file_invalid">Het gekozen bestand is geen TTF- of OTF-lettertype</string>
   <string name="morphe_custom_font_failed_to_load">Het aangepaste lettertype kon niet worden geladen en is uitgeschakeld</string>
+  <!-- layout.glassmenus.glassMenusPatch -->
+  <string name="morphe_glass_menus_screen_title">Glazen menu\'s</string>
+  <string name="morphe_glass_menus_screen_summary">Menu\'s als matglas over de vervaagde inhoud erachter</string>
+  <string name="morphe_glass_menus_title">Glazen menu\'s inschakelen</string>
+  <string name="morphe_glass_menus_summary">Toont menu\'s en bottom sheets als matglas, waarbij de inhoud erachter vervaagd is</string>
+  <string name="morphe_glass_menus_user_dialog_message">Menu\'s worden bijna ondoorzichtig weergegeven wanneer de batterijbesparing is ingeschakeld, of als het apparaat vervaging niet ondersteunt</string>
+  <string name="morphe_glass_menus_opacity_title">Dekking van het glas</string>
+  <string name="morphe_glass_menus_opacity_summary">In hoeverre het menu de vervaagde inhoud bedekt (0 is transparant, 100 is ondoorzichtig)</string>
+  <string name="morphe_glass_menus_blur_title">Vervaging</string>
+  <string name="morphe_glass_menus_blur_summary">In hoeverre de inhoud achter het menu wordt vervaagd</string>
+  <string name="morphe_glass_menus_dim_title">Dimmen</string>
+  <string name="morphe_glass_menus_dim_summary">In hoeverre het scherm rond een bottom sheet wordt verduisterd</string>
   <!-- layout.returnyoutubedislike.returnYouTubeDislikePatch -->
   <!-- Brief notification (toast) shown if network connection times out. Translations of this should not be longer than the original English text, otherwise the text can be clipped and not entirely shown. -->
   <string name="morphe_ryd_failure_connection_timeout">\"Dislikes\" zijn tijdelijk niet beschikbaar (API-time-out)</string>

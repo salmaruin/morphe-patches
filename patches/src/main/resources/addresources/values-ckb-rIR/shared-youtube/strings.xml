@@ -344,6 +344,18 @@ Second \"item\" text"</string>
   <string name="morphe_custom_font_file_summary">فایلێکی فۆنتی TTF یان OTF هەڵبژێرە</string>
   <string name="morphe_custom_font_file_invalid">ئەو فایلەی هەڵبژێردراوە فۆنتی TTF یان OTF نییە</string>
   <string name="morphe_custom_font_failed_to_load">نەتوانرا فۆنتە تایبەتەکە بار بکرێت و کوژێنرایەوە</string>
+  <!-- layout.glassmenus.glassMenusPatch -->
+  <string name="morphe_glass_menus_screen_title">مەنیووییەکانی شیش</string>
+  <string name="morphe_glass_menus_screen_summary">مەنیووەکان وەک شیشی لێڵ لەسەر ناوەڕۆکی لێڵکراوی پشتایان</string>
+  <string name="morphe_glass_menus_title">چالاککردنی مێنووە شیشییەکان</string>
+  <string name="morphe_glass_menus_summary">مێنووەکان و پەڕەکانی خوارەوە وەک شیشی لێڵ پیشان دەدات، کە ناوەڕۆکی پشتەوەیان لێڵ دەبێت</string>
+  <string name="morphe_glass_menus_user_dialog_message">مێنووەکان نزیکەی لێڵن کاتێک پارێزەری باتری چالاکە، یان ئەگەر ئامێرەکە پشتگیری لێڵکردن نەکات</string>
+  <string name="morphe_glass_menus_opacity_title">ڕوونی شیشەکە</string>
+  <string name="morphe_glass_menus_opacity_summary">بڕی داپۆشینی ناوەڕۆکی لێڵکراو لەلایەن مێنوەکەوە (٠ ڕوونە، ١٠٠ لێڵە)</string>
+  <string name="morphe_glass_menus_blur_title">لێڵکردن</string>
+  <string name="morphe_glass_menus_blur_summary">بڕی لێڵبوونی ناوەڕۆکی پشت مێنوەکە</string>
+  <string name="morphe_glass_menus_dim_title">تاریکی</string>
+  <string name="morphe_glass_menus_dim_summary">بڕی تاریکبوونی شاشەکە لە دەوروبەری پەڕەی خوارەوەدا</string>
   <!-- layout.returnyoutubedislike.returnYouTubeDislikePatch -->
   <!-- Brief notification (toast) shown if network connection times out. Translations of this should not be longer than the original English text, otherwise the text can be clipped and not entirely shown. -->
   <string name="morphe_ryd_failure_connection_timeout">دیسلایکەکان بۆ ماوەیەکی کاتی بەردەست نین (کاتی API بەسەرچووە)</string>

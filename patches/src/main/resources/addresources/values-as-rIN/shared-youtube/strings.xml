@@ -344,6 +344,18 @@ PotHelper ডাউনলোড কৰিবলৈ ইয়াত টিপক"</s
   <string name="morphe_custom_font_file_summary">এটা TTF বা OTF ফণ্ট ফাইল বাছনি কৰক</string>
   <string name="morphe_custom_font_file_invalid">পছন্দ কৰা ফাইলটো TTF বা OTF ফন্ট নহয়</string>
   <string name="morphe_custom_font_failed_to_load">কাষ্টম ফন্টটো লোড কৰিব পৰা নগ’ল আৰু ই বন্ধ হৈ আছে</string>
+  <!-- layout.glassmenus.glassMenusPatch -->
+  <string name="morphe_glass_menus_screen_title">গ্লাছ মেনুসমূহ</string>
+  <string name="morphe_glass_menus_screen_summary">পিছলৈ থকা ব্লাৰ্ড কন্টেন্টৰ ওপৰত ফ্ৰোষ্টেড গ্লাছৰ দৰে মেনু</string>
+  <string name="morphe_glass_menus_title">গ্লাছ মেনুসমূহ সক্ৰিয় কৰক</string>
+  <string name="morphe_glass_menus_summary">মেনু আৰু বটম শ্বিটসমূহক ফ্ৰষ্টেড গ্লাছৰ দৰে দেখুৱায়, যাৰ পিছৰ সমগ্ৰ বিষয়বস্তু ব্লাৰ হৈ থাকে</string>
+  <string name="morphe_glass_menus_user_dialog_message">বেটাৰী চেভাৰ সক্ৰিয় থাকিলে বা ডিভাইচটোৱে ব্লাৰৰ সহায় নকৰিলে মেনুসমূহ প্ৰায় অপেক হৈ থাকে</string>
+  <string name="morphe_glass_menus_opacity_title">গ্লাছ অপেচিটি</string>
+  <string name="morphe_glass_menus_opacity_summary">মেনুৱে ব্লাৰ হোৱা বিষয়বস্তুটোক কিমান ঢাকিব (০ মানে স্বচ্ছ, ১০০ মানে অপেক)</string>
+  <string name="morphe_glass_menus_blur_title">ব্লাৰ</string>
+  <string name="morphe_glass_menus_blur_summary">মেনুৰ পিছৰ বিষয়বস্তুটো কিমান ব্লাৰ হ\'ব</string>
+  <string name="morphe_glass_menus_dim_title">ডিম</string>
+  <string name="morphe_glass_menus_dim_summary">বটম শ্বিটৰ চাৰিওফালৰ স্ক্ৰীনখন কিমান অন্ধকাৰ হ\'ব</string>
   <!-- layout.returnyoutubedislike.returnYouTubeDislikePatch -->
   <!-- Brief notification (toast) shown if network connection times out. Translations of this should not be longer than the original English text, otherwise the text can be clipped and not entirely shown. -->
   <string name="morphe_ryd_failure_connection_timeout">ডিসলাইকসমূহ সাময়িকভাৱে উপলব্ধ নহয় (API টাইম আউট হৈছে)</string>

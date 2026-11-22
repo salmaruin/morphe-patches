@@ -344,6 +344,18 @@ PotHelper жүктеу үшін осында түртіңіз"</string>
   <string name="morphe_custom_font_file_summary">TTF немесе OTF шрифт файлын таңдаңыз</string>
   <string name="morphe_custom_font_file_invalid">Таңдалған файл TTF немесе OTF шрифті емес</string>
   <string name="morphe_custom_font_failed_to_load">Жеке қаріп жүктелмеді және өшірілді</string>
+  <!-- layout.glassmenus.glassMenusPatch -->
+  <string name="morphe_glass_menus_screen_title">Шыны мәзірлер</string>
+  <string name="morphe_glass_menus_screen_summary">Көрінетін мазмұнның үстіндегі күңгірт шыны тәрізді мәзірлер</string>
+  <string name="morphe_glass_menus_title">Шиша мәзірлерді қосу</string>
+  <string name="morphe_glass_menus_summary">Мәзірлер мен төменгі парақшаларды мамыл шиша ретінде көрсетеді, олардың артындағы мазмұн бұлдыратылады</string>
+  <string name="morphe_glass_menus_user_dialog_message">Батареяны үнемдеу режимі қосулы болғанда немесе құрылғы бұлдыратуды қолдамаған жағдайда мәзірлер дерлік мөлдір емес болып көрсетіледі</string>
+  <string name="morphe_glass_menus_opacity_title">Шыны мөлдірлігі</string>
+  <string name="morphe_glass_menus_opacity_summary">Мәзір бұлдыратылған мазмұнды қаншалықты жабады (0 - мөлдір, 100 - мөлдір емес)</string>
+  <string name="morphe_glass_menus_blur_title">Бұлдырату</string>
+  <string name="morphe_glass_menus_blur_summary">Мәзірдің артындағы мазмұн қаншалықты бұлдыратылады</string>
+  <string name="morphe_glass_menus_dim_title">Көлеңкелеу</string>
+  <string name="morphe_glass_menus_dim_summary">Төменгі парақшаның айналасындағы экран қаншалықты күңгірттеледі</string>
   <!-- layout.returnyoutubedislike.returnYouTubeDislikePatch -->
   <!-- Brief notification (toast) shown if network connection times out. Translations of this should not be longer than the original English text, otherwise the text can be clipped and not entirely shown. -->
   <string name="morphe_ryd_failure_connection_timeout">Ұнамағандар уақытша қолжетімді емес (API уақыты бітті)</string>

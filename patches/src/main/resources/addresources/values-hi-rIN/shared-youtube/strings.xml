@@ -344,6 +344,18 @@ PotHelper डाउनलोड करने के लिए यहां ट�
   <string name="morphe_custom_font_file_summary">TTF या OTF फ़ॉन्ट फ़ाइल चुनें</string>
   <string name="morphe_custom_font_file_invalid">चुनी गई फ़ाइल TTF या OTF फ़ॉन्ट नहीं है</string>
   <string name="morphe_custom_font_failed_to_load">कस्टम फ़ॉन्ट लोड नहीं हो सका और इसे बंद कर दिया गया है</string>
+  <!-- layout.glassmenus.glassMenusPatch -->
+  <string name="morphe_glass_menus_screen_title">ग्लास मेनू</string>
+  <string name="morphe_glass_menus_screen_summary">उनके पीछे की धुंधली सामग्री पर फ्रॉस्टेड ग्लास के रूप में मेनू</string>
+  <string name="morphe_glass_menus_title">ग्लास मेनू सक्षम करें</string>
+  <string name="morphe_glass_menus_summary">मेनू और बॉटम शीट को फ्रॉस्टेड ग्लास के रूप में दिखाता है, जिसमें उनके पीछे की सामग्री धुंधली होती है</string>
+  <string name="morphe_glass_menus_user_dialog_message">बैटरी सेवर ऑन होने पर, या यदि डिवाइस ब्लर का समर्थन नहीं करता है, तो मेनू लगभग अपारदर्शी दिखाई देते हैं</string>
+  <string name="morphe_glass_menus_opacity_title">ग्लास अपारदर्शिता</string>
+  <string name="morphe_glass_menus_opacity_summary">मेनू धुंधली सामग्री को कितना ढकता है (0 साफ़ है, 100 अपारदर्शी है)</string>
+  <string name="morphe_glass_menus_blur_title">ब्लर</string>
+  <string name="morphe_glass_menus_blur_summary">मेनू के पीछे की सामग्री कितनी धुंधली है</string>
+  <string name="morphe_glass_menus_dim_title">डिम</string>
+  <string name="morphe_glass_menus_dim_summary">बॉटम शीट के चारों ओर स्क्रीन कितनी गहरी होती है</string>
   <!-- layout.returnyoutubedislike.returnYouTubeDislikePatch -->
   <!-- Brief notification (toast) shown if network connection times out. Translations of this should not be longer than the original English text, otherwise the text can be clipped and not entirely shown. -->
   <string name="morphe_ryd_failure_connection_timeout">अस्थायी रूप से डिसलाइक उपलब्ध नहीं हैं (एपीआई समय समाप्त)</string>

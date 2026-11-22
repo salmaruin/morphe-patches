@@ -344,6 +344,18 @@ Má dhéantar é a mhúchadh níos déanaí, moltar sonraí an aip a ghlanadh ch
   <string name="morphe_custom_font_file_summary">Roghnaigh comhad cló TTF nó OTF</string>
   <string name="morphe_custom_font_file_invalid">Ní cló TTF ná OTF é an comhad roghnaithe</string>
   <string name="morphe_custom_font_failed_to_load">Níorbh fhéidir an cló saincheaptha a lódáil agus tá sé múchta</string>
+  <!-- layout.glassmenus.glassMenusPatch -->
+  <string name="morphe_glass_menus_screen_title">Roghchláir ghloine</string>
+  <string name="morphe_glass_menus_screen_summary">Roghchláir ar nós gloine reoite os cionn an ábhair dhoiléir atá taobh thiar díobh</string>
+  <string name="morphe_glass_menus_title">Cumasaigh roghchláir ghloine</string>
+  <string name="morphe_glass_menus_summary">Taispeánann sé roghchláir agus bileoga bun mar ghloine reoite, agus an t-ábhar taobh thiar díobh doiléir</string>
+  <string name="morphe_glass_menus_user_dialog_message">Taispeántar roghchláir atá beagnach teimhneach nuair a bhíonn an coigilteoir ceallraí ar siúl, nó mura dtacaíonn an gléas le doiléiriú</string>
+  <string name="morphe_glass_menus_opacity_title">Teimhneacht ghloine</string>
+  <string name="morphe_glass_menus_opacity_summary">An méid den ábhar doiléir a chlúdaíonn an roghchlár (ciallaíonn 0 go bhfuil sé trédhearcach, agus ciallaíonn 100 go bhfuil sé teimhneach)</string>
+  <string name="morphe_glass_menus_blur_title">Doiléire</string>
+  <string name="morphe_glass_menus_blur_summary">An méid doiléire atá ar an ábhar taobh thiar den roghchlár</string>
+  <string name="morphe_glass_menus_dim_title">Lag</string>
+  <string name="morphe_glass_menus_dim_summary">An méid dorchaithe a chuirtear ar an scáileán timpeall ar bhileog bhun</string>
   <!-- layout.returnyoutubedislike.returnYouTubeDislikePatch -->
   <!-- Brief notification (toast) shown if network connection times out. Translations of this should not be longer than the original English text, otherwise the text can be clipped and not entirely shown. -->
   <string name="morphe_ryd_failure_connection_timeout">Níl na \"dí-mhaith\" ar fáil go sealadach (tá an t-am caite ag an API)</string>

@@ -344,6 +344,18 @@ Pokud bude později vypnuto, doporučujeme vymazat data aplikace, aby se zabrán
   <string name="morphe_custom_font_file_summary">Vyberte soubor písma TTF nebo OTF</string>
   <string name="morphe_custom_font_file_invalid">Vybraný soubor není písmo TTF nebo OTF</string>
   <string name="morphe_custom_font_failed_to_load">Vlastní písmo se nepodařilo načíst a je vypnuto</string>
+  <!-- layout.glassmenus.glassMenusPatch -->
+  <string name="morphe_glass_menus_screen_title">Skleněná menu</string>
+  <string name="morphe_glass_menus_screen_summary">Menu jako mléčné sklo nad rozostřeným obsahem za nimi</string>
+  <string name="morphe_glass_menus_title">Zapnout skleněná menu</string>
+  <string name="morphe_glass_menus_summary">Zobrazuje menu a spodní panely jako mléčné sklo, přičemž obsah za nimi je rozmazaný</string>
+  <string name="morphe_glass_menus_user_dialog_message">Při zapnutém úsporném režimu baterie nebo pokud zařízení nepodporuje rozmazání, jsou menu zobrazena téměř neprůhledně</string>
+  <string name="morphe_glass_menus_opacity_title">Neprůhlednost skla</string>
+  <string name="morphe_glass_menus_opacity_summary">Jak moc menu překrývá rozmazaný obsah (0 je čiré, 100 je neprůhledné)</string>
+  <string name="morphe_glass_menus_blur_title">Rozmazání</string>
+  <string name="morphe_glass_menus_blur_summary">Jak moc je obsah za menu rozmazaný</string>
+  <string name="morphe_glass_menus_dim_title">Ztmavení</string>
+  <string name="morphe_glass_menus_dim_summary">Jak moc je obrazovka kolem spodního panelu ztmavena</string>
   <!-- layout.returnyoutubedislike.returnYouTubeDislikePatch -->
   <!-- Brief notification (toast) shown if network connection times out. Translations of this should not be longer than the original English text, otherwise the text can be clipped and not entirely shown. -->
   <string name="morphe_ryd_failure_connection_timeout">Počty „Nelíbí se mi“ jsou dočasně nedostupné (časový limit API)</string>

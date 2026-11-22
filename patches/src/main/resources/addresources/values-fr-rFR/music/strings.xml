@@ -602,7 +602,7 @@ Pour que le scrobbling continue à se synchroniser pendant la lecture en arrièr
 La base de données est sous licence ODC Open Database License (ODbL). Les entrées de Soul Over AI par xoundbyte sont sous licence CC BY 4.0. Non affilié ni approuvé par SoundProof ou Soul Over AI."</string>
   <!-- layout.applemusicartwork.appleMusicArtworkPatch -->
   <string name="morphe_music_apple_music_artwork_title">Pochette animée Apple Music</string>
-  <string name="morphe_music_apple_music_artwork_summary">Affiche la pochette d\'album animée d\'Apple Music dans le lecteur, si l\'album en possède une. Le titre, l\'artiste et l\'album de chaque chanson sont envoyés à Apple Music</string>
+  <string name="morphe_music_apple_music_artwork_summary">Affiche la pochette d\'album animée Apple Music dans le lecteur, si l\'album en possède une. Le titre, l\'artiste et l\'album de chaque chanson sont envoyés à Apple Music</string>
   <!-- layout.lyrics.lyricsPatch -->
   <string name="morphe_music_lyrics_device_unavailable">Les paroles ne sont pas disponibles pour ce fichier sur cet appareil</string>
   <string name="morphe_music_lyrics_enabled_title">Utiliser les paroles de tiers</string>

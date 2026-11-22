@@ -344,6 +344,18 @@ PotHelper ডাউনলোড করতে এখানে ট্যাপ ক
   <string name="morphe_custom_font_file_summary">একটি TTF বা OTF ফন্ট ফাইল নির্বাচন করুন</string>
   <string name="morphe_custom_font_file_invalid">নির্বাচিত ফাইলটি একটি TTF বা OTF ফন্ট নয়</string>
   <string name="morphe_custom_font_failed_to_load">কাস্টম ফন্ট লোড করা যায়নি এবং এটি বন্ধ করে দেওয়া হয়েছে</string>
+  <!-- layout.glassmenus.glassMenusPatch -->
+  <string name="morphe_glass_menus_screen_title">গ্লাস মেনু</string>
+  <string name="morphe_glass_menus_screen_summary">পেছনের ঝাপসা কন্টেন্টের উপর ফ্রস্টেড গ্লাসের মতো মেনু</string>
+  <string name="morphe_glass_menus_title">গ্লাস মেনু সক্ষম করুন</string>
+  <string name="morphe_glass_menus_summary">মেনু এবং বটম শিটগুলোকে ফ্রস্টেড গ্লাসের মতো দেখায়, যার পেছনের কন্টেন্ট ব্লার হয়ে থাকে</string>
+  <string name="morphe_glass_menus_user_dialog_message">ব্যাটারি সেভার চালু থাকলে অথবা ডিভাইসটি ব্লার সাপোর্ট না করলে মেনুগুলো প্রায় অস্বচ্ছ দেখাবে</string>
+  <string name="morphe_glass_menus_opacity_title">গ্লাসের অস্বচ্ছতা</string>
+  <string name="morphe_glass_menus_opacity_summary">মেনুটি ব্লার করা কন্টেন্টকে কতটা ঢেকে রাখবে (০ মানে স্বচ্ছ, ১০০ মানে অস্বচ্ছ)</string>
+  <string name="morphe_glass_menus_blur_title">ব্লার</string>
+  <string name="morphe_glass_menus_blur_summary">মেনুর পেছনের কন্টেন্ট কতটা ব্লার হবে</string>
+  <string name="morphe_glass_menus_dim_title">ডিম</string>
+  <string name="morphe_glass_menus_dim_summary">বটম শিটের চারপাশের স্ক্রিন কতটা অন্ধকার হবে</string>
   <!-- layout.returnyoutubedislike.returnYouTubeDislikePatch -->
   <!-- Brief notification (toast) shown if network connection times out. Translations of this should not be longer than the original English text, otherwise the text can be clipped and not entirely shown. -->
   <string name="morphe_ryd_failure_connection_timeout">অপছন্দ সাময়িকভাবে উপলভ্য নয় (API সময় শেষ হয়েছে)</string>

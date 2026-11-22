@@ -601,6 +601,8 @@ Fon səsləndirmə zamanı analiz sinxronlaşdırılmasına əmin olmaq üçün 
 
 Məlumat bazası ODC Open Database License (ODbL) lisenziyası altındadır. xoundbyte tərəfindən hazırlanmış Soul Over AI daxilolmaları CC BY 4.0 lisenziyasına tabedir. SoundProof və ya Soul Over AI ilə heç bir əlaqəsi yoxdur və ya onlar tərəfindən təsdiqlənmir."</string>
   <!-- layout.applemusicartwork.appleMusicArtworkPatch -->
+  <string name="morphe_music_apple_music_artwork_title">Apple Music animasiyalı cildi</string>
+  <string name="morphe_music_apple_music_artwork_summary">Albomun belə örtüyü varsa, oynadıcıda Apple Music-in animasiyalı albom örtüyünü göstərir. Hər mahnının başlığı, ifaçısı və albomu Apple Music-ə göndərilir</string>
   <!-- layout.lyrics.lyricsPatch -->
   <string name="morphe_music_lyrics_device_unavailable">Bu cihaz faylı üçün mahnı sözləri mövcud deyil.</string>
   <string name="morphe_music_lyrics_enabled_title">Üçüncü tərəf mahnı sözlərin istifadə et</string>

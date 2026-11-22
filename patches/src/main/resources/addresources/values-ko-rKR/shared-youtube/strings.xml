@@ -344,6 +344,18 @@ PotHelper를 다운로드하려면 여기를 탭하세요"</string>
   <string name="morphe_custom_font_file_summary">TTF 또는 OTF 글꼴 파일을 선택할 수 있습니다</string>
   <string name="morphe_custom_font_file_invalid">선택한 파일은 TTF 또는 OTF 글꼴이 아닙니다</string>
   <string name="morphe_custom_font_failed_to_load">사용자 정의 글꼴을 불러올 수 없어 사용 중지되었습니다</string>
+  <!-- layout.glassmenus.glassMenusPatch -->
+  <string name="morphe_glass_menus_screen_title">글래스 메뉴</string>
+  <string name="morphe_glass_menus_screen_summary">뒤에 있는 흐릿한 콘텐츠 위에 서리 낀 유리처럼 표시되는 메뉴</string>
+  <string name="morphe_glass_menus_title">글래스 메뉴 활성화</string>
+  <string name="morphe_glass_menus_summary">메뉴와 바텀 시트를 불투명 유리를 통해 보는 것처럼 표시하며, 배경 콘텐츠를 흐리게 처리함</string>
+  <string name="morphe_glass_menus_user_dialog_message">배터리 절약 모드가 켜져 있거나 기기가 블러 효과를 지원하지 않는 경우, 메뉴가 거의 불투명하게 표시됨</string>
+  <string name="morphe_glass_menus_opacity_title">글래스 불투명도</string>
+  <string name="morphe_glass_menus_opacity_summary">메뉴가 흐려진 콘텐츠를 덮는 정도 (0은 투명, 100은 불투명)</string>
+  <string name="morphe_glass_menus_blur_title">흐림</string>
+  <string name="morphe_glass_menus_blur_summary">메뉴 뒤의 콘텐츠가 흐려지는 정도</string>
+  <string name="morphe_glass_menus_dim_title">어둡게 하기</string>
+  <string name="morphe_glass_menus_dim_summary">바텀 시트 주변 화면이 어두워지는 정도</string>
   <!-- layout.returnyoutubedislike.returnYouTubeDislikePatch -->
   <!-- Brief notification (toast) shown if network connection times out. Translations of this should not be longer than the original English text, otherwise the text can be clipped and not entirely shown. -->
   <string name="morphe_ryd_failure_connection_timeout">싫어요 수를 일시적으로 표시할 수 없습니다 (API 시간 초과)</string>

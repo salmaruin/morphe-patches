@@ -344,6 +344,18 @@ To bo spremenilo videz in funkcije aplikacije, vendar se lahko pojavijo nepoznan
   <string name="morphe_custom_font_file_summary">Izberite datoteko pisave TTF ali OTF</string>
   <string name="morphe_custom_font_file_invalid">Izbrana datoteka ni pisava TTF ali OTF</string>
   <string name="morphe_custom_font_failed_to_load">Pisave po meri ni bilo mogoče naložiti, zato je izklopljena</string>
+  <!-- layout.glassmenus.glassMenusPatch -->
+  <string name="morphe_glass_menus_screen_title">Stekleni meniji</string>
+  <string name="morphe_glass_menus_screen_summary">Meniji v obliki matemiranega stekla nad zamegljeno vsebino za njimi</string>
+  <string name="morphe_glass_menus_title">Omogoči steklene menije</string>
+  <string name="morphe_glass_menus_summary">Prikaže menije in spodnje plošče kot matirano steklo, pri čemer je vsebina za njimi zamegljena</string>
+  <string name="morphe_glass_menus_user_dialog_message">Meniji so prikazani skoraj neprozorno, ko je vklopljen varčevalec baterije ali če naprava ne podpira zamegljevanja</string>
+  <string name="morphe_glass_menus_opacity_title">Prosojnost stekla</string>
+  <string name="morphe_glass_menus_opacity_summary">Do katere mere meni prekriva zamegljeno vsebino (0 je prozorno, 100 je neprozorno)</string>
+  <string name="morphe_glass_menus_blur_title">Zameglitev</string>
+  <string name="morphe_glass_menus_blur_summary">Do katere mere je vsebina za menijem zamegljena</string>
+  <string name="morphe_glass_menus_dim_title">Zatemnitev</string>
+  <string name="morphe_glass_menus_dim_summary">Do katere mere je zaslon okoli spodnje plošče zatemnjen</string>
   <!-- layout.returnyoutubedislike.returnYouTubeDislikePatch -->
   <!-- Brief notification (toast) shown if network connection times out. Translations of this should not be longer than the original English text, otherwise the text can be clipped and not entirely shown. -->
   <string name="morphe_ryd_failure_connection_timeout">Ne maram všeč trenutno ni na voljo (API je prekinil povezavo)</string>

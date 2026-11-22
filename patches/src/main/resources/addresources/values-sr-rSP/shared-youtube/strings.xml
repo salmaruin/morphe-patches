@@ -344,6 +344,18 @@ Second \"item\" text"</string>
   <string name="morphe_custom_font_file_summary">Изаберите TTF или OTF датотеку фонта</string>
   <string name="morphe_custom_font_file_invalid">Изабрана датотека није TTF или OTF фонт</string>
   <string name="morphe_custom_font_failed_to_load">Прилагођени фонт није могао да се учита и искључен је</string>
+  <!-- layout.glassmenus.glassMenusPatch -->
+  <string name="morphe_glass_menus_screen_title">Стаклени менији</string>
+  <string name="morphe_glass_menus_screen_summary">Менији као матирано стакло преко замућеног садржаја иза њих</string>
+  <string name="morphe_glass_menus_title">Омогући стаклене меније</string>
+  <string name="morphe_glass_menus_summary">Приказује меније и доње плоче као матирано стакло, са замућеним садржајем иза њих</string>
+  <string name="morphe_glass_menus_user_dialog_message">Менији се приказују скоро непрозирно док је укључен штедљиви режим батерије, или ако уређај не подржава замућење</string>
+  <string name="morphe_glass_menus_opacity_title">Непрозирност стакла</string>
+  <string name="morphe_glass_menus_opacity_summary">Колико мени покрива замућени садржај (0 је прозирно, 100 је непрозирно)</string>
+  <string name="morphe_glass_menus_blur_title">Замућење</string>
+  <string name="morphe_glass_menus_blur_summary">Колико је садржај иза менија замућен</string>
+  <string name="morphe_glass_menus_dim_title">Затамњење</string>
+  <string name="morphe_glass_menus_dim_summary">Колико је екран око доње плоче затамњен</string>
   <!-- layout.returnyoutubedislike.returnYouTubeDislikePatch -->
   <!-- Brief notification (toast) shown if network connection times out. Translations of this should not be longer than the original English text, otherwise the text can be clipped and not entirely shown. -->
   <string name="morphe_ryd_failure_connection_timeout">Несвиђања привремено нису доступна (API је истекао)</string>

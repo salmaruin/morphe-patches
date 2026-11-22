@@ -344,6 +344,18 @@ Dacă opțiunea este dezactivată ulterior, se recomandă ștergerea datelor apl
   <string name="morphe_custom_font_file_summary">Alegeți un fișier font TTF sau OTF</string>
   <string name="morphe_custom_font_file_invalid">Fișierul selectat nu este un font TTF sau OTF</string>
   <string name="morphe_custom_font_failed_to_load">Fontul personalizat nu a putut fi încărcat și este dezactivat</string>
+  <!-- layout.glassmenus.glassMenusPatch -->
+  <string name="morphe_glass_menus_screen_title">Meniu de sticlă</string>
+  <string name="morphe_glass_menus_screen_summary">Meniu sub formă de sticlă mată peste conținutul blurat de dedesubt</string>
+  <string name="morphe_glass_menus_title">Activați meniurile de sticlă</string>
+  <string name="morphe_glass_menus_summary">Afișează meniurile și foile de jos ca sticlă mată, cu conținutul din spatele lor blurat</string>
+  <string name="morphe_glass_menus_user_dialog_message">Meniurile sunt afișate aproape opace atunci când economisirea bateriei este activată sau dacă dispozitivul nu suportă blurul</string>
+  <string name="morphe_glass_menus_opacity_title">Opacitatea sticlei</string>
+  <string name="morphe_glass_menus_opacity_summary">Cât de mult acoperă meniul conținutul blurat (0 este transparent, 100 este opac)</string>
+  <string name="morphe_glass_menus_blur_title">Estombare</string>
+  <string name="morphe_glass_menus_blur_summary">Cât de mult este blurat conținutul din spatele meniului</string>
+  <string name="morphe_glass_menus_dim_title">Întunecare</string>
+  <string name="morphe_glass_menus_dim_summary">Cât de mult este întunecat ecranul din jurul unei foi de jos</string>
   <!-- layout.returnyoutubedislike.returnYouTubeDislikePatch -->
   <!-- Brief notification (toast) shown if network connection times out. Translations of this should not be longer than the original English text, otherwise the text can be clipped and not entirely shown. -->
   <string name="morphe_ryd_failure_connection_timeout">Dislike-uri temporar indisponibile (API a expirat)</string>

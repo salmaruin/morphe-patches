@@ -344,6 +344,18 @@ Second \"item\" text"</string>
   <string name="morphe_custom_font_file_summary">בחר קובץ גופן TTF או OTF</string>
   <string name="morphe_custom_font_file_invalid">הקובץ שנבחר אינו גופן TTF או OTF</string>
   <string name="morphe_custom_font_failed_to_load">לא ניתן היה לטעון את הגופן המותאם אישית ולכן הוא כבוי</string>
+  <!-- layout.glassmenus.glassMenusPatch -->
+  <string name="morphe_glass_menus_screen_title">תפריטי זכוכית</string>
+  <string name="morphe_glass_menus_screen_summary">תפריטים במראה זכוכית חלבית מעל התוכן המטשטש שמאחוריהם</string>
+  <string name="morphe_glass_menus_title">הפעל תפריטי זכוכית</string>
+  <string name="morphe_glass_menus_summary">מציג תפריטים וגיליונות תחתונים כזכוכית מט, כאשר התוכן שמאחוריהם מטושטש</string>
+  <string name="morphe_glass_menus_user_dialog_message">תפריטים מוצגים כמעט אטומים כאשר חסכון בסוללה מופעל, או אם המכשיר אינו תומך בטשטוש</string>
+  <string name="morphe_glass_menus_opacity_title">אטימות זכוכית</string>
+  <string name="morphe_glass_menus_opacity_summary">מידת הכיסוי של התפריט על התוכן המטושטש (0 הוא שקוף, 100 הוא אטום)</string>
+  <string name="morphe_glass_menus_blur_title">טשטוש</string>
+  <string name="morphe_glass_menus_blur_summary">מידת הטשטוש של התוכן שמאחורי התפריט</string>
+  <string name="morphe_glass_menus_dim_title">החשכה</string>
+  <string name="morphe_glass_menus_dim_summary">מידת ההחשכה של המסך מסביב לגיליון תחתון</string>
   <!-- layout.returnyoutubedislike.returnYouTubeDislikePatch -->
   <!-- Brief notification (toast) shown if network connection times out. Translations of this should not be longer than the original English text, otherwise the text can be clipped and not entirely shown. -->
   <string name="morphe_ryd_failure_connection_timeout">דיסלייקים אינם זמינים באופן זמני (תם פסק הזמן של ה-API)</string>

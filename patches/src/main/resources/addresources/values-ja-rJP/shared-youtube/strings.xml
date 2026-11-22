@@ -344,6 +344,18 @@ YouTube Premium を利用している場合、この設定は必要ない可能�
   <string name="morphe_custom_font_file_summary">TTF または OTF フォント ファイルを選択してください</string>
   <string name="morphe_custom_font_file_invalid">選択されたファイルは TTF または OTF フォントではありません</string>
   <string name="morphe_custom_font_failed_to_load">カスタム フォントを読み込めなかったため、無効になっています</string>
+  <!-- layout.glassmenus.glassMenusPatch -->
+  <string name="morphe_glass_menus_screen_title">ガラスメニュー</string>
+  <string name="morphe_glass_menus_screen_summary">背後のぼかしたコンテンツの上に、フロストガラスのようなメニューを表示します</string>
+  <string name="morphe_glass_menus_title">グラスメニューを有効にする</string>
+  <string name="morphe_glass_menus_summary">メニューとボトムシートを、背後のコンテンツがぼかされたすりガラスのように表示します</string>
+  <string name="morphe_glass_menus_user_dialog_message">バッテリーセーバーがオンの場合、またはデバイスがぼかしをサポートしていない場合は、メニューがほぼ不透明に表示されます</string>
+  <string name="morphe_glass_menus_opacity_title">グラスの透明度</string>
+  <string name="morphe_glass_menus_opacity_summary">メニューがぼかされたコンテンツをどの程度覆うか（0は透明、100は不透明）</string>
+  <string name="morphe_glass_menus_blur_title">ぼかし</string>
+  <string name="morphe_glass_menus_blur_summary">メニュー背後のコンテンツをどの程度ぼかすか</string>
+  <string name="morphe_glass_menus_dim_title">調光</string>
+  <string name="morphe_glass_menus_dim_summary">ボトムシート周囲の画面をどの程度暗くするか</string>
   <!-- layout.returnyoutubedislike.returnYouTubeDislikePatch -->
   <!-- Brief notification (toast) shown if network connection times out. Translations of this should not be longer than the original English text, otherwise the text can be clipped and not entirely shown. -->
   <string name="morphe_ryd_failure_connection_timeout">低評価数表示は一時的に利用できません (API タイムアウト)</string>

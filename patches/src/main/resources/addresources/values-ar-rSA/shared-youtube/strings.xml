@@ -344,6 +344,18 @@ Second \"item\" text"</string>
   <string name="morphe_custom_font_file_summary">اختر ملف خط TTF أو OTF</string>
   <string name="morphe_custom_font_file_invalid">الملف المحدد ليس خط بصيغة TTF أو OTF</string>
   <string name="morphe_custom_font_failed_to_load">تعذر تحميل الخط المخصص وتم إيقاف تشغيله</string>
+  <!-- layout.glassmenus.glassMenusPatch -->
+  <string name="morphe_glass_menus_screen_title">قوائم زجاجية</string>
+  <string name="morphe_glass_menus_screen_summary">تظهر القوائم كزجاج متجمد فوق المحتوى المضبّب خلفها</string>
+  <string name="morphe_glass_menus_title">تمكين القوائم الزجاجية</string>
+  <string name="morphe_glass_menus_summary">عرض القوائم والصفحات السفلية كزجاج متجمد، مع تمويه المحتوى الموجود خلفها</string>
+  <string name="morphe_glass_menus_user_dialog_message">تظهر القوائم معتمة تقريبًا عند تشغيل موفر البطارية، أو إذا كان الجهاز لا يدعم الضبابيّة</string>
+  <string name="morphe_glass_menus_opacity_title">شفافية الزجاج</string>
+  <string name="morphe_glass_menus_opacity_summary">مدى تغطية القائمة للمحتوى المضبّب (0 شفاف، 100 معتم)</string>
+  <string name="morphe_glass_menus_blur_title">الضبابيّة</string>
+  <string name="morphe_glass_menus_blur_summary">مدى ضبابيّة المحتوى الموجود خلف القائمة</string>
+  <string name="morphe_glass_menus_dim_title">تعتيم</string>
+  <string name="morphe_glass_menus_dim_summary">مدى تعتيم الشاشة المحيطة بالنافذة السفلية</string>
   <!-- layout.returnyoutubedislike.returnYouTubeDislikePatch -->
   <!-- Brief notification (toast) shown if network connection times out. Translations of this should not be longer than the original English text, otherwise the text can be clipped and not entirely shown. -->
   <string name="morphe_ryd_failure_connection_timeout">لم يعجبني غير متاح مؤقتًا (انتهت مهلة API)</string>

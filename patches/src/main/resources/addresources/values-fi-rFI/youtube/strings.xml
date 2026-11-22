@@ -1171,17 +1171,6 @@ Päästäksesi Asetuksiin, ota Asetukset-painike käyttöön kohdasta Yleiset �
   <string name="morphe_navigation_bar_glass_bottom_margin_summary">Säädä väliä lasisen navigointipalkin ja näytön alareunan tai järjestelmän navigoinnin välillä</string>
   <string name="morphe_navigation_bar_glass_size_title">Lasisen navigointipalkin koko</string>
   <string name="morphe_navigation_bar_glass_size_summary">Säädä lasisen navigointipalkin korkeutta, leveyttä ja painikkeiden välistä etäisyyttä esikatselun avulla. Painikkeet, jotka eivät mahdu näytön leveyteen, piilotetaan</string>
-  <string name="morphe_glass_menus_screen_title">Lasivalikot</string>
-  <string name="morphe_glass_menus_screen_summary">Valikot näkyvät huurretun lasin tavoin sumennetun sisällön päällä</string>
-  <string name="morphe_glass_menus_title">Ota lasivalikot käyttöön</string>
-  <string name="morphe_glass_menus_summary">Näyttää valikot ja alavalikot huurretun lasin tavoin, jolloin niiden takana oleva sisältö sumennetaan</string>
-  <string name="morphe_glass_menus_user_dialog_message">Valikot näkyvät lähes läpinäkymättöminä, kun virransäästötila on päällä tai jos laite ei tue sumennusta</string>
-  <string name="morphe_glass_menus_opacity_title">Lasin läpinäkymättömyys</string>
-  <string name="morphe_glass_menus_opacity_summary">Kuinka paljon valikko peittää sumennetun sisällön (0 on läpinäkyvä, 100 on läpinäkymätön)</string>
-  <string name="morphe_glass_menus_blur_title">Sumennus</string>
-  <string name="morphe_glass_menus_blur_summary">Kuinka paljon valikon takana oleva sisältö on sumennettu</string>
-  <string name="morphe_glass_menus_dim_title">Himmennys</string>
-  <string name="morphe_glass_menus_dim_summary">Kuinka paljon näyttö alavalikon ympäriltä on tummennettu</string>
   <string name="morphe_navigation_bar_glass_size_height">Korkeus</string>
   <string name="morphe_navigation_bar_glass_size_width">Maksimileveys</string>
   <string name="morphe_navigation_bar_glass_size_button_spacing">Painikkeiden väli</string>

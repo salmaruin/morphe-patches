@@ -344,6 +344,18 @@ Second \"item\" text"</string>
   <string name="morphe_custom_font_file_summary">ເລືອກໄຟລ໌ຟອນ TTF ຫຼື OTF</string>
   <string name="morphe_custom_font_file_invalid">ໄຟລ໌ທີ່ເລືອກບໍ່ແມ່ນຟອນ TTF ຫຼື OTF</string>
   <string name="morphe_custom_font_failed_to_load">ບໍ່ສາມາດໂຫຼດຟອນຕ໌ທີ່ກຳນົດເອງໄດ້ ແລະ ຖືກປິດການໃຊ້ງານ</string>
+  <!-- layout.glassmenus.glassMenusPatch -->
+  <string name="morphe_glass_menus_screen_title">ເມນູແບບແກ້ວ</string>
+  <string name="morphe_glass_menus_screen_summary">ເມນູທີ່ມີລັກສະນະຄືກັບແກ້ວຝ້າ ທັບເທິງເນື້ອຫາທີ່ມົວຢູ່ທາງຫຼັງ</string>
+  <string name="morphe_glass_menus_title">ເປີດໃຊ້ງານເມນູແບບແກ້ວ</string>
+  <string name="morphe_glass_menus_summary">ສະແດງເມນູ ແລະ ແຜງດ້ານລຸ່ມເປັນແບບແກ້ວຝ້າ, ໂດຍທີ່ເນື້ອຫາທາງຫຼັງຈະຖືກເຮັດໃຫ້ເບີ</string>
+  <string name="morphe_glass_menus_user_dialog_message">ເມນູຈະຖືກສະແດງແບບເກືອບທຶບ ໃນຂະນະທີ່ໂໝດປະຢັດແບັດເຕີຣີຖືກເປີດໃຊ້, ຫຼື ຖ້າອຸປະກອນບໍ່ຮອງຮັບການເຮັດໃຫ້ເບີ</string>
+  <string name="morphe_glass_menus_opacity_title">ຄວາມທຶບຂອງແກ້ວ</string>
+  <string name="morphe_glass_menus_opacity_summary">ລະດັບທີ່ເມນູປົກຄຸມເນື້ອຫາທີ່ເບີ (0 ແມ່ນໃສ, 100 ແມ່ນທຶບ)</string>
+  <string name="morphe_glass_menus_blur_title">ຄວາມເບີ</string>
+  <string name="morphe_glass_menus_blur_summary">ລະດັບຄວາມເບີຂອງເນື້ອຫາທີ່ຢູ່ທາງຫຼັງເມນູ</string>
+  <string name="morphe_glass_menus_dim_title">ຄວາມມືດ</string>
+  <string name="morphe_glass_menus_dim_summary">ລະດັບຄວາມມືດຂອງໜ້າຈໍອ້ອມຮອບແຜງດ້ານລຸ່ມ</string>
   <!-- layout.returnyoutubedislike.returnYouTubeDislikePatch -->
   <!-- Brief notification (toast) shown if network connection times out. Translations of this should not be longer than the original English text, otherwise the text can be clipped and not entirely shown. -->
   <string name="morphe_ryd_failure_connection_timeout">ບໍ່ສາມາດເບິ່ງຈຳນວນ Dislike ໄດ້ຊົ່ວຄາວ (API ໝົດເວລາ)</string>

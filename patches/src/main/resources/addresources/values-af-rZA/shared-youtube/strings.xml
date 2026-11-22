@@ -344,6 +344,18 @@ As dit later gedeaktiveer word, word aanbeveel dat die appdata gewis word om UI-
   <string name="morphe_custom_font_file_summary">Kies \'n TTF- of OTF-fontlêer</string>
   <string name="morphe_custom_font_file_invalid">Die gekose lêer is nie \'n TTF- of OTF-font nie</string>
   <string name="morphe_custom_font_failed_to_load">Die pasgemaakte lettertipe kon nie gelaai word nie en is afgeskakel</string>
+  <!-- layout.glassmenus.glassMenusPatch -->
+  <string name="morphe_glass_menus_screen_title">Glasmenu\'s</string>
+  <string name="morphe_glass_menus_screen_summary">Kiesmenu\'s as matglas oor die vervaagde inhoud agter hulle</string>
+  <string name="morphe_glass_menus_title">Aktiveer glas-spyskaarte</string>
+  <string name="morphe_glass_menus_summary">Wys spyskaarte en onderste blaaie as gematteerde glas, met die inhoud agter hulle vervaag</string>
+  <string name="morphe_glass_menus_user_dialog_message">Spyskaarte word byna ondoorsigtig vertoon terwyl die batterybespaarder aan is, of as die toestel nie vervaging ondersteun nie</string>
+  <string name="morphe_glass_menus_opacity_title">Glas-ondeursigtigheid</string>
+  <string name="morphe_glass_menus_opacity_summary">Hoeveel die spyskaart die vervaagde inhoud bedek (0 is helder, 100 is ondoorsigtig)</string>
+  <string name="morphe_glass_menus_blur_title">Vervaag</string>
+  <string name="morphe_glass_menus_blur_summary">Hoeveel die inhoud agter die spyskaart vervaag is</string>
+  <string name="morphe_glass_menus_dim_title">Dim</string>
+  <string name="morphe_glass_menus_dim_summary">Hoeveel die skerm rondom \'n onderste blaaie verdonker is</string>
   <!-- layout.returnyoutubedislike.returnYouTubeDislikePatch -->
   <!-- Brief notification (toast) shown if network connection times out. Translations of this should not be longer than the original English text, otherwise the text can be clipped and not entirely shown. -->
   <string name="morphe_ryd_failure_connection_timeout">Dislikes is tans nie beskikbaar nie (API het tydperk verstryk)</string>

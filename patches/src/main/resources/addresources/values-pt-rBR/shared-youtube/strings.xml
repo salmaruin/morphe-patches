@@ -344,6 +344,18 @@ Se esta opção for desativada posteriormente, é recomendável limpar os dados 
   <string name="morphe_custom_font_file_summary">Escolha um arquivo de fonte TTF ou OTF</string>
   <string name="morphe_custom_font_file_invalid">O arquivo escolhido não é uma fonte TTF ou OTF</string>
   <string name="morphe_custom_font_failed_to_load">A fonte personalizada não pôde ser carregada e está desativada</string>
+  <!-- layout.glassmenus.glassMenusPatch -->
+  <string name="morphe_glass_menus_screen_title">Menus de vidro</string>
+  <string name="morphe_glass_menus_screen_summary">Menus como vidro fosco sobre o conteúdo desfocado atrás deles</string>
+  <string name="morphe_glass_menus_title">Habilitar menus de vidro</string>
+  <string name="morphe_glass_menus_summary">Exibe menus e painéis inferiores como vidro fosco, com o conteúdo atrás deles desfocados</string>
+  <string name="morphe_glass_menus_user_dialog_message">Os menus são exibidos quase opacos enquanto o economizador de bateria estiver ativado, ou se o dispositivo não suporta desfoque</string>
+  <string name="morphe_glass_menus_opacity_title">Opacidade do vidro</string>
+  <string name="morphe_glass_menus_opacity_summary">O quanto do menu cobre o conteúdo desfocado (0 é transparente, 100 é opaco)</string>
+  <string name="morphe_glass_menus_blur_title">Desfoque</string>
+  <string name="morphe_glass_menus_blur_summary">O quanto do conteúdo atrás do menu é desfocado</string>
+  <string name="morphe_glass_menus_dim_title">Escurecer</string>
+  <string name="morphe_glass_menus_dim_summary">O quanto da tela ao redor de um painel inferior é escurecida</string>
   <!-- layout.returnyoutubedislike.returnYouTubeDislikePatch -->
   <!-- Brief notification (toast) shown if network connection times out. Translations of this should not be longer than the original English text, otherwise the text can be clipped and not entirely shown. -->
   <string name="morphe_ryd_failure_connection_timeout">Não gostei indisponível por um tempo (API expirou)</string>

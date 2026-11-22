@@ -1171,17 +1171,6 @@ A Beállítások eléréséhez aktiválja a Beállítások gombot az Általános
   <string name="morphe_navigation_bar_glass_bottom_margin_summary">Állítsa be a téret az üveg navigációs sáv és a képernyő alja vagy a rendszer navigációja között</string>
   <string name="morphe_navigation_bar_glass_size_title">Üveg navigációs sáv mérete</string>
   <string name="morphe_navigation_bar_glass_size_summary">Állítsa be az üveg navigációs sáv magasságát, szélességét és a gombok közötti távolságot, előnézettel. A képernyő szélességébe nem férő gombok el lesznek rejtve</string>
-  <string name="morphe_glass_menus_screen_title">Üvegmenük</string>
-  <string name="morphe_glass_menus_screen_summary">A menük frosted glass hatással jelennek meg a mögötte lévő elmosódott tartalom felett</string>
-  <string name="morphe_glass_menus_title">Üvegmenük engedélyezése</string>
-  <string name="morphe_glass_menus_summary">A menük és az alsó lapok frosted glass hatással jelennek meg, miközben a mögöttük lévő tartalom elmosódik</string>
-  <string name="morphe_glass_menus_user_dialog_message">A menük majdnem teljesen átláthatatlanul jelennek meg, ha az energiamegtakarítás be van kapcsolva, vagy ha az eszköz nem támogatja az elmosódást</string>
-  <string name="morphe_glass_menus_opacity_title">Üveg átlátszósága</string>
-  <string name="morphe_glass_menus_opacity_summary">Hogy mennyire takarja a menü a homályos tartalmat (0 az átlátszó, 100 az átláthatatlan)</string>
-  <string name="morphe_glass_menus_blur_title">Homályosítás</string>
-  <string name="morphe_glass_menus_blur_summary">Hogy mennyire legyen homályos a menü mögötti tartalom</string>
-  <string name="morphe_glass_menus_dim_title">Sötétítés</string>
-  <string name="morphe_glass_menus_dim_summary">Hogy mennyire legyen sötétebb a képernyő egy alsó lap körül</string>
   <string name="morphe_navigation_bar_glass_size_height">Magasság</string>
   <string name="morphe_navigation_bar_glass_size_width">Maximális szélesség</string>
   <string name="morphe_navigation_bar_glass_size_button_spacing">Gombtávolság</string>

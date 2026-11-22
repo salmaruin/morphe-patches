@@ -344,6 +344,18 @@ Kui see hiljem välja lülitada, on soovitatav puhastada rakenduse andmed, et v�
   <string name="morphe_custom_font_file_summary">Valige TTF või OTF fondifail</string>
   <string name="morphe_custom_font_file_invalid">Valitud fail ei ole TTF või OTF font</string>
   <string name="morphe_custom_font_failed_to_load">Kohandatud fonti ei õnnestunud laadida ja see on välja lülitatud</string>
+  <!-- layout.glassmenus.glassMenusPatch -->
+  <string name="morphe_glass_menus_screen_title">Klaasmenüüd</string>
+  <string name="morphe_glass_menus_screen_summary">Menüüd on nagu matte klaas häguse sisu kohal</string>
+  <string name="morphe_glass_menus_title">Luba klaasmenüüd</string>
+  <string name="morphe_glass_menus_summary">Kuvab menüüd ja alumised paneelid kui matt klaas, kus nende taga olev sisu on hägusetatud</string>
+  <string name="morphe_glass_menus_user_dialog_message">Menüüd on peaaegu läbivaatamatud, kui akutehaversaja on sisse lülitatud või kui seade ei toeta hägusefekti</string>
+  <string name="morphe_glass_menus_opacity_title">Klaasi läbipaistmatus</string>
+  <string name="morphe_glass_menus_opacity_summary">Kui palju menüü katab häguse sisu (0 on läbipaistev, 100 on läbivaatamatu)</string>
+  <string name="morphe_glass_menus_blur_title">Hägu</string>
+  <string name="morphe_glass_menus_blur_summary">Kui palju on menüü taga olev sisu hägune</string>
+  <string name="morphe_glass_menus_dim_title">Tõmbedus</string>
+  <string name="morphe_glass_menus_dim_summary">Kui palju on alumse lehe ümber olev ekraan pimestatud</string>
   <!-- layout.returnyoutubedislike.returnYouTubeDislikePatch -->
   <!-- Brief notification (toast) shown if network connection times out. Translations of this should not be longer than the original English text, otherwise the text can be clipped and not entirely shown. -->
   <string name="morphe_ryd_failure_connection_timeout">Mittemeeldimised ei ole hetkel saadaval (API aeg läks läbi)</string>

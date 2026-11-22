@@ -601,8 +601,8 @@ Aby zapewnić ciągłość synchronizacji podczas odtwarzania w tle, upewnij si�
 
 ​Baza danych jest udostępniana na licencji ODC Open Database License (ODbL). Wpisy z projektu Soul Over AI autorstwa xoundbyte są objęte licencją CC BY 4.0. Funkcja nie jest powiązana z projektami SoundProof ani Soul Over AI, ani nie jest przez nie wspierana."</string>
   <!-- layout.applemusicartwork.appleMusicArtworkPatch -->
-  <string name="morphe_music_apple_music_artwork_title">Animowana okładka Apple Music</string>
-  <string name="morphe_music_apple_music_artwork_summary">Wyświetla animowaną okładkę albumu z Apple Music w odtwarzaczu, jeśli album ją posiada. Tytuł, wykonawca i album każdego utworu są przesyłane do Apple Music</string>
+  <string name="morphe_music_apple_music_artwork_title">Animowane okładki z Apple Music</string>
+  <string name="morphe_music_apple_music_artwork_summary">Wyświetla w odtwarzaczu animowaną okładkę albumu z Apple Music, jeśli album ją posiada. Tytuł, wykonawca i album każdego utworu są wysyłane do Apple Music</string>
   <!-- layout.lyrics.lyricsPatch -->
   <string name="morphe_music_lyrics_device_unavailable">Tekst utworu nie jest dostępny dla tego pliku z urządzenia</string>
   <string name="morphe_music_lyrics_enabled_title">Używaj zewnętrznych tekstów</string>

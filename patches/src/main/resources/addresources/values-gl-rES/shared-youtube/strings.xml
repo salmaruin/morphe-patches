@@ -344,6 +344,18 @@ Se se desactiva posteriormente, recoméndase borrar os datos da aplicación para
   <string name="morphe_custom_font_file_summary">Escolle un ficheiro de fonte TTF ou OTF</string>
   <string name="morphe_custom_font_file_invalid">O ficheiro seleccionado non é unha fonte TTF ou OTF</string>
   <string name="morphe_custom_font_failed_to_load">Non se puido cargar a fonte personalizada e desactivouse</string>
+  <!-- layout.glassmenus.glassMenusPatch -->
+  <string name="morphe_glass_menus_screen_title">Menús de vidro</string>
+  <string name="morphe_glass_menus_screen_summary">Menús como vidro fosco sobre o contido borroso que hai detrás</string>
+  <string name="morphe_glass_menus_title">Activar menus de vidro</string>
+  <string name="morphe_glass_menus_summary">Mostra os menus e as follas inferiores como vidro esmerilado, co contido detrás deles desenfocado</string>
+  <string name="morphe_glass_menus_user_dialog_message">Os menus móstranse case opacos cando o ahorro de batería está activo, ou se o dispositivo non soporta o desenfoque</string>
+  <string name="morphe_glass_menus_opacity_title">Opacidade do vidro</string>
+  <string name="morphe_glass_menus_opacity_summary">Quanto cobre o menú o contido desenfocado (0 é transparente, 100 é opaco)</string>
+  <string name="morphe_glass_menus_blur_title">Desenfoque</string>
+  <string name="morphe_glass_menus_blur_summary">Quanto se desenfoca o contido detrás do menú</string>
+  <string name="morphe_glass_menus_dim_title">Escurecer</string>
+  <string name="morphe_glass_menus_dim_summary">Quanto se escurece a pantalla arredor dunha folla inferior</string>
   <!-- layout.returnyoutubedislike.returnYouTubeDislikePatch -->
   <!-- Brief notification (toast) shown if network connection times out. Translations of this should not be longer than the original English text, otherwise the text can be clipped and not entirely shown. -->
   <string name="morphe_ryd_failure_connection_timeout">Os dislikes non están dispoñibles temporalmente (tempo limite da API)</string>

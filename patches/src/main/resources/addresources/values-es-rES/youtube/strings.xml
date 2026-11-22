@@ -1171,17 +1171,6 @@ Para acceder a los ajustes, activa el botón de ajustes a través de General →
   <string name="morphe_navigation_bar_glass_bottom_margin_summary">Ajusta el espacio entre la barra de navegación de cristal y la parte inferior de la pantalla o la navegación del sistema</string>
   <string name="morphe_navigation_bar_glass_size_title">Tamaño de barra de navegación de cristal</string>
   <string name="morphe_navigation_bar_glass_size_summary">Ajusta la altura, el ancho y el espacio de los botones de la barra de navegación de cristal, con una vista previa. Los botones que no caben en el ancho de la pantalla se ocultan.</string>
-  <string name="morphe_glass_menus_screen_title">Menús de cristal</string>
-  <string name="morphe_glass_menus_screen_summary">Menús como cristal esmerilado sobre el contenido desenfocado detrás de ellos</string>
-  <string name="morphe_glass_menus_title">Activar menús de cristal</string>
-  <string name="morphe_glass_menus_summary">Muestra los menús y las hojas inferiores como cristal esmerilado, con el contenido detrás de ellos desenfocado</string>
-  <string name="morphe_glass_menus_user_dialog_message">Los menús se muestran casi opacos mientras el ahorrador de batería esté activado, o si el dispositivo no es compatible con el desenfoque</string>
-  <string name="morphe_glass_menus_opacity_title">Opacidad del cristal</string>
-  <string name="morphe_glass_menus_opacity_summary">Cuánto cubre el menú el contenido desenfocado (0 es transparente, 100 es opaco)</string>
-  <string name="morphe_glass_menus_blur_title">Desenfoque</string>
-  <string name="morphe_glass_menus_blur_summary">Cuánto se desenfoca el contenido detrás del menú</string>
-  <string name="morphe_glass_menus_dim_title">Atenuación</string>
-  <string name="morphe_glass_menus_dim_summary">Cuánto se oscurece la pantalla alrededor de una hoja inferior</string>
   <string name="morphe_navigation_bar_glass_size_height">Altura</string>
   <string name="morphe_navigation_bar_glass_size_width">Ancho máximo</string>
   <string name="morphe_navigation_bar_glass_size_button_spacing">Espacio de botones</string>

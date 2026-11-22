@@ -601,8 +601,8 @@ Chun a chinntiú go ndéantar sioncronú le linn athsheinm sa chúlra, cinntigh 
 
 Tá an bunachar sonraí ceadúnaithe faoin ODC Open Database License (ODbL). Tá iontrálacha ó Soul Over AI, cruthaithe ag xoundbyte, ceadúnaithe faoin gceadúnas CC BY 4.0. Níl aon bhaint ag an tseirbhís seo le SoundProof ná le Soul Over AI, agus níl sí formhuinithe acu ach an oiread."</string>
   <!-- layout.applemusicartwork.appleMusicArtworkPatch -->
-  <string name="morphe_music_apple_music_artwork_title">Ealaín animate Apple Music</string>
-  <string name="morphe_music_apple_music_artwork_summary">Taispeánann ealaín an ailbhiom animate de Apple Music sa seinnir, má tá ceann ag an ailbhom. Seoltaíonn sé teideal, ealaíontóir agus ailbhom gach amhráin chuig Apple Music</string>
+  <string name="morphe_music_apple_music_artwork_title">Saothar ealaíne beoite Apple Music</string>
+  <string name="morphe_music_apple_music_artwork_summary">Taispeánann sé sa seinnteoir saothar ealaíne beoite an albaim ó Apple Music, má tá ceann ag an albam. Seoltar teideal, ealaíontóir agus albam gach amhráin chuig Apple Music.</string>
   <!-- layout.lyrics.lyricsPatch -->
   <string name="morphe_music_lyrics_device_unavailable">Níl liricí ar fáil don chomhad gléas seo.</string>
   <string name="morphe_music_lyrics_enabled_title">Úsáid liricí tríú páirtí</string>

@@ -145,6 +145,18 @@ Android System WebView-ஐத் திறக்க OK-வைத் தட்ட
   <!-- misc.spoof.appversion.spoofAppVersionPatch -->
   <!-- misc.framerate.baseAppRefreshRatePatch -->
   <!-- layout.font.baseCustomFontPatch -->
+  <!-- layout.glassmenus.glassMenusPatch -->
+  <string name="morphe_glass_menus_screen_title">கண்ணாடி மெனுக்கள்</string>
+  <string name="morphe_glass_menus_screen_summary">மங்கலான உள்ளடக்கத்திற்கு மேல் உறைந்த கண்ணாடி போன்ற மெனுக்கள்</string>
+  <string name="morphe_glass_menus_title">கிளாஸ் மெனுக்களை இயக்கவும்</string>
+  <string name="morphe_glass_menus_summary">மெனுக்கள் மற்றும் பாட்டம் ஷீட்களை உறைந்த கண்ணாடி போல் காட்டும், அவற்றிற்குப் பின்னால் உள்ள உள்ளடக்கம் மங்கலாக இருக்கும்</string>
+  <string name="morphe_glass_menus_user_dialog_message">பேட்டரி சேவர் செயல்பாட்டில் இருக்கும்போது அல்லது சாதனத்தில் பிளர் வசதி இல்லாதபோது, மெனுக்கள் கிட்டத்தட்ட ஒளிபுகாத நிலையில் காட்டப்படும்</string>
+  <string name="morphe_glass_menus_opacity_title">கிளாஸ் ஒளிபுகும் தன்மை</string>
+  <string name="morphe_glass_menus_opacity_summary">மங்கலான உள்ளடக்கத்தை மெனு எவ்வளவு தூரம் மறைக்கிறது (0 என்பது தெளிவானது, 100 என்பது ஒளிபுகாதது)</string>
+  <string name="morphe_glass_menus_blur_title">பிளர்</string>
+  <string name="morphe_glass_menus_blur_summary">மெனுவிற்குப் பின்னால் உள்ள உள்ளடக்கம் எவ்வளவு தூரம் மங்கலாக உள்ளது</string>
+  <string name="morphe_glass_menus_dim_title">டிம்</string>
+  <string name="morphe_glass_menus_dim_summary">பாட்டம் ஷீட்டைச் சுற்றியுள்ள திரை எவ்வளவு தூரம் இருட்டாக்கப்பட்டுள்ளது</string>
   <!-- layout.returnyoutubedislike.returnYouTubeDislikePatch -->
   <!-- Brief notification (toast) shown if network connection times out. Translations of this should not be longer than the original English text, otherwise the text can be clipped and not entirely shown. -->
   <!-- Video likes have been set to hidden by the video uploader. -->

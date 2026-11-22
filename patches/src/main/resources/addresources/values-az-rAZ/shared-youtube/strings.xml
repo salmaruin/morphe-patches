@@ -141,6 +141,7 @@ YouTube Premium istifadəçisisinizsə, bu tənzimləmə tələb olunmaya bilər
   <string name="morphe_spoof_video_streams_no_clients_suggest_vr_toast">Aktivləşdirməyə cəhd edin: Video yayımların saxtalaşdır &gt; Android VR girişi</string>
   <string name="morphe_spoof_video_streams_client_type_title">İlkin qəbuledici</string>
   <!-- Ensure this translation matches the translation of morphe_spoof_video_streams_no_clients_suggest_vr_toast -->
+  <string name="morphe_spoof_video_streams_sign_in_android_vr_about_title">\'Android VR\' girişi</string>
   <string name="morphe_spoof_video_streams_sign_in_android_vr_about_summary">\'Android VR\' ayrıca giriş tələb edir. Davam etmək üçün buraya toxun</string>
   <string name="morphe_spoof_video_streams_sign_in_android_vr_about_summary_signed_in">Hazırda \'Android VR\'-a daxil olunub</string>
   <!-- "Default client" must be the same translated text as morphe_spoof_video_streams_client_type_title -->
@@ -167,6 +168,7 @@ Daxil olmaq üçün aşağıda davam et-i vurun"</string>
 • Morphe tənzimləmələriniz Android VR təsdiqlənməsini idxal/ixrac etməyəcək
 • Bu tətbiq 6 ay ərzində istifadə olunmazsa, Google bu təsdiqlənməni siləcək
 • Google parolunuzu dəyişdirsəniz və ya bu cihazı Google tənzimləmələrinizdən çıxarsanız, təkrar daxil olmalı olacaqsınız"</string>
+  <string name="morphe_spoof_video_streams_sign_in_mweb_about_title">\'Mobil Web\' girişi</string>
   <string name="morphe_spoof_video_streams_sign_in_mweb_about_summary">Könüllü: Hesabınızla videoları oynatmaq üçün YouTube veb saytına daxil olun. Davam etmək üçün bura toxun</string>
   <string name="morphe_spoof_video_streams_sign_in_mweb_about_summary_signed_in">Hazırda \'Mobil Web\'-ə daxil olunub</string>
   <!-- "Default client" must be the same translated text as morphe_spoof_video_streams_client_type_title -->
@@ -342,6 +344,18 @@ Sonradan qapadılarsa, UI səhvlərin önləmək üçün tətbiq məlumatların 
   <string name="morphe_custom_font_file_summary">TTF və ya OTF şrift faylı seç</string>
   <string name="morphe_custom_font_file_invalid">Seçilmiş fayl TTF və ya OTF şrifti deyil</string>
   <string name="morphe_custom_font_failed_to_load">Fərdi şrift yüklənilə bilmədi və qapalıdır</string>
+  <!-- layout.glassmenus.glassMenusPatch -->
+  <string name="morphe_glass_menus_screen_title">Şüşə menyular</string>
+  <string name="morphe_glass_menus_screen_summary">Arxasındakı bulanıq məzmun üzərində buzlu şüşə kimi menyular</string>
+  <string name="morphe_glass_menus_title">Şüşə menyuları aktivləşdir</string>
+  <string name="morphe_glass_menus_summary">Menyuları və alt vərəqləri arxasındakı məzmun bulanıqlaşdırılmış, buzlu şüşə kimi göstərir</string>
+  <string name="morphe_glass_menus_user_dialog_message">Batareya qənaəti aktiv olduqda və ya cihaz bulanıqlıq dəstəkləmədikdə menyular təxminən, qeyri-şəffaf göstərilir</string>
+  <string name="morphe_glass_menus_opacity_title">Şüşə tutqunluğu</string>
+  <string name="morphe_glass_menus_opacity_summary">Menyunun bulanıq məzmunu nə qədər örtməsi (0 şəffaf, 100 qeyri-şəffafdır)</string>
+  <string name="morphe_glass_menus_blur_title">Bulanıqlıq</string>
+  <string name="morphe_glass_menus_blur_summary">Menyunun arxasındakı məzmun nə qədər bulanıqlaşdırılır</string>
+  <string name="morphe_glass_menus_dim_title">Tutqunlaşdır</string>
+  <string name="morphe_glass_menus_dim_summary">Alt vərəqin ətrafındakı ekranın nə qədər qaraldılması</string>
   <!-- layout.returnyoutubedislike.returnYouTubeDislikePatch -->
   <!-- Brief notification (toast) shown if network connection times out. Translations of this should not be longer than the original English text, otherwise the text can be clipped and not entirely shown. -->
   <string name="morphe_ryd_failure_connection_timeout">Bəyənməmə müvəqqəti əlçatmazdır (API zaman aşımı)</string>

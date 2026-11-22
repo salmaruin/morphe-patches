@@ -1171,17 +1171,6 @@ Para acceder aos Axustes, activa o botón de Axustes a través de Xeral → Barr
   <string name="morphe_navigation_bar_glass_bottom_margin_summary">Axusta o espazo entre a barra de navegación de vidro e a parte inferior da pantalla ou a navegación do sistema</string>
   <string name="morphe_navigation_bar_glass_size_title">Tamaño da barra de navegación de vidro</string>
   <string name="morphe_navigation_bar_glass_size_summary">Axusta a altura, a largura e o espaciado dos botóns da barra de navegación de vidro, cunha vista previa. Os botóns que non caben na largura da pantalla ocúltanse</string>
-  <string name="morphe_glass_menus_screen_title">Menús de vidro</string>
-  <string name="morphe_glass_menus_screen_summary">Menús como vidro fosco sobre o contido borrado que hai detrás deles</string>
-  <string name="morphe_glass_menus_title">Activar menús de vidro</string>
-  <string name="morphe_glass_menus_summary">Amosa os menús e as follas inferiores como vidro fosco, co contido detrás deles borrado</string>
-  <string name="morphe_glass_menus_user_dialog_message">Os menús amósanse case opacos mentres o ahorro de batería está activado, ou se o dispositivo non suporta o efecto de borrado</string>
-  <string name="morphe_glass_menus_opacity_title">Opacidade do vidro</string>
-  <string name="morphe_glass_menus_opacity_summary">Cantidade que o menú cobre o contido desenfocado (0 é transparente, 100 é opaco)</string>
-  <string name="morphe_glass_menus_blur_title">Desfoque</string>
-  <string name="morphe_glass_menus_blur_summary">Cantidade que o contido detrás do menú está desenfocado</string>
-  <string name="morphe_glass_menus_dim_title">Escurecer</string>
-  <string name="morphe_glass_menus_dim_summary">Cantidade que a pantalla arredor dunha folla inferior se escurece</string>
   <string name="morphe_navigation_bar_glass_size_height">Altura</string>
   <string name="morphe_navigation_bar_glass_size_width">Largura máxima</string>
   <string name="morphe_navigation_bar_glass_size_button_spacing">Espaciado dos botóns</string>

@@ -1171,17 +1171,6 @@ Seadetele ligipääsemiseks luba seadete nupp menüüs: Üldine → Tööriistar
   <string name="morphe_navigation_bar_glass_bottom_margin_summary">Reguleeri vahe klaasist navigatsiooniriba ja ekraani alumise osa või süsteemi navigatsiooni vahel</string>
   <string name="morphe_navigation_bar_glass_size_title">Klaasise navigeerimisriba suurus</string>
   <string name="morphe_navigation_bar_glass_size_summary">Reguleerige klaasise navigeerimisriba kõrgust, laialgust ja nuppude vahemaad koos eelvaatega. Nupud, mis ei mahu ekraani laialgusse, on peidetud</string>
-  <string name="morphe_glass_menus_screen_title">Klaasmenüüd</string>
-  <string name="morphe_glass_menus_screen_summary">Menüüd on nagu matt klaas nende taga olevas hägusetatud sisu kohal</string>
-  <string name="morphe_glass_menus_title">Luba klaasmenüüd</string>
-  <string name="morphe_glass_menus_summary">Kuvab menüüd ja alumised paneelid kui matt klaas, kus nende taga olev sisu on hägusetatud</string>
-  <string name="morphe_glass_menus_user_dialog_message">Kui akusäästur on sisse lülitatud või kui seade ei toeta hägusetust, kuvatakse menüüd peaaegu läbipaistmatult</string>
-  <string name="morphe_glass_menus_opacity_title">Klaasi läbipaistmatus</string>
-  <string name="morphe_glass_menus_opacity_summary">Kui palju menüü läbib häguse sisu (0 on läbipaistev, 100 on läbimatu)</string>
-  <string name="morphe_glass_menus_blur_title">Hägu</string>
-  <string name="morphe_glass_menus_blur_summary">Kui palju on menüü taga olev sisu hägus</string>
-  <string name="morphe_glass_menus_dim_title">Tõmbedus</string>
-  <string name="morphe_glass_menus_dim_summary">Kui palju on ekraan alumise lehe ümber pimestatud</string>
   <string name="morphe_navigation_bar_glass_size_height">Kõrgus</string>
   <string name="morphe_navigation_bar_glass_size_width">Maksimaalne laius</string>
   <string name="morphe_navigation_bar_glass_size_button_spacing">Nuppude vahemaa</string>

@@ -343,6 +343,18 @@ Daha sonra bu özellik kapatılırsa, arayüz hatalarını önlemek için uygula
   <string name="morphe_custom_font_file_summary">Bir TTF veya OTF yazı tipi dosyası seçin</string>
   <string name="morphe_custom_font_file_invalid">Seçilen dosya bir TTF veya OTF yazı tipi değil.</string>
   <string name="morphe_custom_font_failed_to_load">Özel yazı tipi yüklenemedi ve devre dışı bırakıldı.</string>
+  <!-- layout.glassmenus.glassMenusPatch -->
+  <string name="morphe_glass_menus_screen_title">Cam menüler</string>
+  <string name="morphe_glass_menus_screen_summary">Arkalarındaki bulanık içeriğin üzerinde buzlu cam şeklinde menüler</string>
+  <string name="morphe_glass_menus_title">Cam menüleri etkinleştir</string>
+  <string name="morphe_glass_menus_summary">Menüleri ve alt sayfaları, arkalarındaki içerik bulanıklaştırılmış şekilde buzlu cam olarak gösterir</string>
+  <string name="morphe_glass_menus_user_dialog_message">Pil tasarrufu açıkken veya cihaz bulanıklaştırmayı desteklemiyorsa menüler neredeyse opak olarak gösterilir</string>
+  <string name="morphe_glass_menus_opacity_title">Cam opaklığı</string>
+  <string name="morphe_glass_menus_opacity_summary">Menünün bulanık içeriği ne kadar kapladığı (0 şeffaf, 100 opaktır)</string>
+  <string name="morphe_glass_menus_blur_title">Bulanıklık</string>
+  <string name="morphe_glass_menus_blur_summary">Menünün arkasındaki içeriğin ne kadar bulanıklaştırılacağı</string>
+  <string name="morphe_glass_menus_dim_title">Karartma</string>
+  <string name="morphe_glass_menus_dim_summary">Alt sayfanın etrafındaki ekranın ne kadar karartılacağı</string>
   <!-- layout.returnyoutubedislike.returnYouTubeDislikePatch -->
   <!-- Brief notification (toast) shown if network connection times out. Translations of this should not be longer than the original English text, otherwise the text can be clipped and not entirely shown. -->
   <string name="morphe_ryd_failure_connection_timeout">Beğenmeme sayıları geçici olarak kullanılamıyor (API zaman aşımına uğradı)</string>

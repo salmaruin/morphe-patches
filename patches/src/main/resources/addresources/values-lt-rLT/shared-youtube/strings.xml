@@ -344,6 +344,18 @@ Jei vėliau išjungiate, rekomenduojama išvalyti programos duomenis, kad būtų
   <string name="morphe_custom_font_file_summary">Pasirinkite TTF arba OTF šrifto failą</string>
   <string name="morphe_custom_font_file_invalid">Pasirinktas failas nėra TTF arba OTF šriftas</string>
   <string name="morphe_custom_font_failed_to_load">Nepavyko įkelti pasirinktinio šrifto, todėl jis išjungtas</string>
+  <!-- layout.glassmenus.glassMenusPatch -->
+  <string name="morphe_glass_menus_screen_title">Stikliniai meniu</string>
+  <string name="morphe_glass_menus_screen_summary">Meniu kaip matuminis stiklas virš išblaškyto už jų esančio turinio</string>
+  <string name="morphe_glass_menus_title">Įjungti stiklo meniu</string>
+  <string name="morphe_glass_menus_summary">Rodo meniu ir apatines skydeles kaip matminį stiklą, o turinys už jų yra aptumptas</string>
+  <string name="morphe_glass_menus_user_dialog_message">Kai įjungta baterijos taupymo režimas arba jei įrenginys nepalaiko aptumpimo, meniu rodomi beveik neperžiūrūs</string>
+  <string name="morphe_glass_menus_opacity_title">Stiklo permatumas</string>
+  <string name="morphe_glass_menus_opacity_summary">Kiek meniu uždengia aptumptą turinį (0 – skaidru, 100 – neperžiūru)</string>
+  <string name="morphe_glass_menus_blur_title">Aptumpimas</string>
+  <string name="morphe_glass_menus_blur_summary">Kiek yra aptumptas turinys už meniu</string>
+  <string name="morphe_glass_menus_dim_title">Sutemsinimas</string>
+  <string name="morphe_glass_menus_dim_summary">Kiek yra suteminta ekrano dalis aplink apatinę skydelę</string>
   <!-- layout.returnyoutubedislike.returnYouTubeDislikePatch -->
   <!-- Brief notification (toast) shown if network connection times out. Translations of this should not be longer than the original English text, otherwise the text can be clipped and not entirely shown. -->
   <string name="morphe_ryd_failure_connection_timeout">„Nepatinka“ laikinai nepasiekiami (API laikas baigėsi)</string>

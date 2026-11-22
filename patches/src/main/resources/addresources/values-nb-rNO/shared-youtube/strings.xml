@@ -344,6 +344,18 @@ Hvis det skrus av senere, anbefales det å slette appdata for å forhindre UI-bu
   <string name="morphe_custom_font_file_summary">Velg en TTF- eller OTF-fontfil</string>
   <string name="morphe_custom_font_file_invalid">Den valgte filen er ikke en TTF- eller OTF-font</string>
   <string name="morphe_custom_font_failed_to_load">Egendefinert font kunne ikke lastes inn og er slått av</string>
+  <!-- layout.glassmenus.glassMenusPatch -->
+  <string name="morphe_glass_menus_screen_title">Glassmenyer</string>
+  <string name="morphe_glass_menus_screen_summary">Menyer som frostet glass over det uklare innholdet bak dem</string>
+  <string name="morphe_glass_menus_title">Aktiver glassmenyer</string>
+  <string name="morphe_glass_menus_summary">Viser menyer og bunnark som frostet glass, med innholdet bak dem uskarp</string>
+  <string name="morphe_glass_menus_user_dialog_message">Menyer vises nesten ugjennomsiktige når batterisparing er på, eller hvis enheten ikke støtter uskarphet</string>
+  <string name="morphe_glass_menus_opacity_title">Glassopasitet</string>
+  <string name="morphe_glass_menus_opacity_summary">Hvor mye menyen dekker det uskarpe innholdet (0 er gjennomsiktig, 100 er ugjennomsiktig)</string>
+  <string name="morphe_glass_menus_blur_title">Uskarphet</string>
+  <string name="morphe_glass_menus_blur_summary">Hvor mye innholdet bak menyen er uskarpt</string>
+  <string name="morphe_glass_menus_dim_title">Dimming</string>
+  <string name="morphe_glass_menus_dim_summary">Hvor mye skjermen rundt et bunnark er mørklagt</string>
   <!-- layout.returnyoutubedislike.returnYouTubeDislikePatch -->
   <!-- Brief notification (toast) shown if network connection times out. Translations of this should not be longer than the original English text, otherwise the text can be clipped and not entirely shown. -->
   <string name="morphe_ryd_failure_connection_timeout">Misliker er midlertidig ikke tilgjengelige (API-timeout)</string>
